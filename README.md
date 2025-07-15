@@ -1,4 +1,4 @@
-- 👋 Hola hola,soy Alejandro
+- 👋 Hola hola, soy Alejandro
 - 👀 Me interesa el tema de la programacion :3 
 - 🌱 Ahora estoy en la carrera de ing de sistemas 
 - 💞️ Me gustaria conocer personas que me ayuden en este mundo de la programacion ^-^
